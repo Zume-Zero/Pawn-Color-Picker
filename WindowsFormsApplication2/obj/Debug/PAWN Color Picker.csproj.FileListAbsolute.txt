@@ -6,3 +6,4 @@ C:\Users\x0F346\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\W
 C:\Users\x0F346\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
 C:\Users\x0F346\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\PAWNColor.Properties.Resources.resources
 C:\Users\x0F346\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\PAWN Color Picker.csproj.GenerateResource.Cache
+C:\Users\x0F346\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\PAWN Color Picker.csprojResolveAssemblyReference.cache
